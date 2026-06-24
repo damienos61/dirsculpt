@@ -1,0 +1,36 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+*.o
+*.a
+*.out
+
+# Test artifacts
+*.test
+coverage.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated scripts
+dirsculpt_actions_*.sh
+dirsculpt_actions_*.ps1
+dirsculpt_backup_*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Binaries
+dirsculpt
+dirsculpt-linux
+dirsculpt-macos
+dirsculpt.exe
